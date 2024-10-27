@@ -1,1 +1,2 @@
 # Email-Spam-Detection
+In today’s digital world, email spam has become a common challenge, flooding inboxes with unwanted and potentially harmful content. This project addresses this issue by creating a machine learning-based email spam detection system that classifies incoming emails as either “Spam” or “Not Spam.” The goal is to enhance email security by filtering out spam messages, minimizing disruptions, and protecting users from phishing attempts, malware, and other email-borne threats.
